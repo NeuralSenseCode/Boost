@@ -1,0 +1,130 @@
+Participant,Version,Date,Session,OpenSignalsData,Complete,Status,Channels,Overflow,Duration,PsychoPy,PsychoPyComplete,Errors
+093G,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Missing Signals: blankScreen_00 - KeyError('t');Missing Signals: BP_00 - KeyError('t');Missing Signals: Saliva_00 - KeyError('t');Missing Signals: Exposure - KeyError('t');Missing Signals: passiveViewing_01 - KeyError('t');Missing Signals: blankScreen_01 - KeyError('t');Missing Signals: BP_01 - KeyError('t');Missing Signals: blankScreen_02 - KeyError('t');Missing Signals: BP_02 - KeyError('t');Missing Signals: blankScreen_03 - KeyError('t');Missing Signals: BP_03 - KeyError('t');Missing Signals: blankScreen_04 - KeyError('t');Missing Signals: BP_04 - KeyError('t');Missing Signals: Exercise - KeyError('t');Missing Signals: BP_05 - KeyError('t');Missing Signals: blankScreen_05 - KeyError('t');Missing Signals: BP_06 - KeyError('t')
+093H,0.0,2025-6-2,,1.0,1.0,98.45241112284408,2.190849925519492,0.0,,1.0,0.0,Failed OpenSignals: ./Analysis/Raw/Participants/093H/SCH_opensignals_BC33ACABB3C8_2025-06-02_10-48-01.txt - ValueError('cannot convert float NaN to integer')
+093I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,9589.758000000002,1.0,0.0,
+095G,1.1,2025-5-28,,1.0,1.0,98.5854189336235,2.2258133357590584,0.0,8926.538999999997,1.0,0.0,
+095H,1.1,2025-6-4,,1.0,1.0,98.12192118226602,2.233093575611308,0.0,7988.618000000002,1.0,0.0,
+095I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,0.0,9743.055,1.0,0.0,
+096G,1.1,2025-5-26,,1.0,1.0,98.55786141399928,2.209516215720312,0.0,7853.519,1.0,0.0,
+096H,1.1,2025-6-2,,1.0,1.0,97.33183013904548,2.195219156732197,0.0,7074.524000000005,1.0,0.0,
+096I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,9411.951,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+098G,1.1,2025-5-27,,1.0,1.0,97.71557271557272,2.187112986656763,0.0,8239.378000000004,1.0,0.0,
+098H,1.1,2025-6-3,,1.0,0.0,70.59248554913295,2.0,0.0,6592.832999999999,1.0,0.0,DNF: blankScreen_01 in Version 2025-06-03_12h26.21.163;Missing Signals: blankScreen_04 - IndexError('list index out of range');Missing Signals: BP_04 - IndexError('list index out of range');Missing Signals: Exercise - IndexError('list index out of range');Missing Signals: BP_05 - IndexError('list index out of range');Missing Signals: blankScreen_05 - IndexError('list index out of range');Missing Signals: BP_06 - IndexError('list index out of range')
+098I,1.1,2025-6-10,,1.0,1.0,100.0,3.0,0.0,9646.979999999996,1.0,0.0,
+099G,1.1,2025-5-27,,1.0,1.0,96.47932816537468,2.1548953398023096,1.0,10383.506,1.0,0.0,DNF: blankScreen_00 in Version 2025-05-27_14h56.32.374;DNF: blankScreen_00 in Version 2025-05-27_14h57.45.195;DNF: blankScreen_00 in Version 2025-05-27_14h58.24.197;DNF: blankScreen_00 in Version 2025-05-27_14h58.49.479;DNF: blankScreen_01 in Version 2025-05-27_14h56.32.374;DNF: blankScreen_01 in Version 2025-05-27_14h57.45.195;DNF: blankScreen_01 in Version 2025-05-27_14h58.24.197;DNF: blankScreen_01 in Version 2025-05-27_14h58.49.479;DNF: blankScreen_02 in Version 2025-05-27_14h56.32.374;DNF: blankScreen_02 in Version 2025-05-27_14h57.45.195;DNF: blankScreen_02 in Version 2025-05-27_14h58.24.197;DNF: blankScreen_02 in Version 2025-05-27_14h58.49.479;DNF: blankScreen_03 in Version 2025-05-27_14h56.32.374
+099H,1.1,2025-6-3,,1.0,1.0,98.21080026024724,2.180474635640607,0.0,8815.813000000002,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+099I,1.1,2025-6-18,,1.0,1.0,100.0,2.6038773724113065,1.0,10143.001000000004,1.0,0.0,
+100G,1.1,2025-5-27,,1.0,1.0,97.5773387998509,2.186998032431381,0.0,8492.205000000002,1.0,0.0,
+100H,1.1,2025-6-3,,1.0,1.0,98.46368715083798,2.1874420862950426,0.0,7626.647000000004,1.0,0.0,
+100I,1.1,2025-6-10,,1.0,1.0,100.0,3.0,0.0,8916.464,1.0,0.0,
+102G,1.1,2025-5-26,,1.0,1.0,97.44101030242604,2.1566139321467186,0.0,9760.144999999997,1.0,0.0,
+102H,1.1,2025-6-2,,1.0,0.0,28.20682797480941,3.0,0.0,1546.4130000000005,1.0,0.0,Missing Signals: blankScreen_00 - IndexError('list index out of range');Missing Signals: BP_00 - IndexError('list index out of range');Missing Signals: Saliva_00 - IndexError('list index out of range');Missing Signals: Exposure - IndexError('list index out of range');Missing Signals: passiveViewing_01 - IndexError('list index out of range');Missing Signals: blankScreen_01 - IndexError('list index out of range');Missing Signals: BP_01 - IndexError('list index out of range');Missing Signals: blankScreen_02 - IndexError('list index out of range');Missing Signals: BP_02 - IndexError('list index out of range');Missing Signals: blankScreen_03 - IndexError('list index out of range');Missing Signals: BP_03 - IndexError('list index out of range')
+102I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,8984.866999999998,1.0,0.0,
+103G,1.1,2025-5-27,,1.0,1.0,98.25962910128388,2.154532396673201,1.0,13615.609000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+103H,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,9952.910000000003,1.0,0.0,
+103I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,1.0,10451.718999999996,1.0,0.0,
+104G,1.1,2025-5-30,,1.0,1.0,98.20415879017014,2.0,0.0,8698.281000000003,1.0,0.0,
+104H,1.1,2025-6-6,,1.0,1.0,97.54157628344178,2.191216072718005,0.0,7651.473000000005,1.0,0.0,
+104I,1.1,2025-6-13,,1.0,1.0,100.0,3.0,1.0,10014.835,1.0,0.0,
+105G,0.0,2025-6-17,,1.0,1.0,97.09406830437388,2.195394395922804,0.0,9947.068000000008,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-17_14h08.36.574
+105H,1.1,2025-6-23,,1.0,1.0,97.02216066481996,2.179493940921427,0.0,7675.504999999997,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+105I,1.1,2025-6-27,,1.0,1.0,100.0,3.0,0.0,8725.486000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+106G,1.1,2025-6-17,,1.0,1.0,99.15651358950328,2.176958629711944,0.0,9581.633000000002,1.0,0.0,
+106H,1.1,2025-6-23,,1.0,1.0,95.84764283484232,2.1829672750859013,0.0,8251.326000000001,1.0,0.0,
+106I,1.1,2025-6-27,,1.0,1.0,100.0,3.0,0.0,9288.301,1.0,0.0,
+107G,1.1,2025-5-30,,1.0,1.0,97.16892104435355,2.0,0.0,9152.735999999995,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+107H,1.1,2025-6-3,,1.0,1.0,97.12854757929884,2.181093969710845,0.0,8122.179000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+107I,1.1,2025-6-10,,1.0,1.0,100.0,3.0,1.0,10343.944000000003,1.0,0.0,
+108G,1.1,2025-5-28,,1.0,1.0,99.08443540183112,2.191507784900896,0.0,7334.645000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+108H,1.1,2025-6-4,,1.0,1.0,97.22792607802874,2.177820632333796,0.0,6979.160000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+108I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,1.0,12269.295999999997,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+109G,1.1,2025-5-29,,1.0,1.0,98.90403635391608,2.2149722739926307,0.0,9564.664000000004,1.0,0.0,DNF: blankScreen_00 in Version 2025-05-29_09h59.40.456;DNF: blankScreen_00 in Version 2025-05-29_10h06.16.695;DNF: blankScreen_00 in Version 2025-05-29_10h11.00.510;DNF: blankScreen_00 in Version 2025-05-29_10h11.54.183;DNF: blankScreen_01 in Version 2025-05-29_09h59.40.456;DNF: blankScreen_01 in Version 2025-05-29_10h06.16.695;DNF: blankScreen_01 in Version 2025-05-29_10h11.00.510;DNF: blankScreen_01 in Version 2025-05-29_10h11.54.183;DNF: blankScreen_02 in Version 2025-05-29_09h59.40.456;DNF: blankScreen_02 in Version 2025-05-29_10h06.16.695;DNF: blankScreen_02 in Version 2025-05-29_10h11.00.510;DNF: blankScreen_02 in Version 2025-05-29_10h11.54.183
+109H,1.1,2025-6-5,,1.0,1.0,97.7925718290119,2.229840973444449,0.0,8658.488999999994,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-05_09h54.36.895;DNF: blankScreen_01 in Version 2025-06-05_09h54.36.895;DNF: blankScreen_02 in Version 2025-06-05_09h54.36.895;DNF: blankScreen_03 in Version 2025-06-05_09h54.36.895
+109I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,9638.430999999997,1.0,0.0,
+111G,1.1,2025-5-28,,1.0,1.0,99.20477137176938,2.194561139737909,1.0,14480.791999999994,1.0,0.0,
+111H,1.1,2025-6-4,,1.0,1.0,98.19112627986348,2.1867385164880804,0.0,7223.398000000001,1.0,0.0,
+111I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,0.0,9114.047,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+112G,1.1,2025-5-28,,1.0,1.0,98.44216108717268,2.175047881304839,0.0,8915.273000000001,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+112H,1.1,2025-6-4,,1.0,1.0,98.57142857142858,2.179361061957077,0.0,8350.166000000005,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+112I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,0.0,9254.316,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+113G,1.1,2025-6-13,,1.0,1.0,97.47038104386807,2.165741260712311,0.0,9295.378000000004,1.0,0.0,
+113H,1.1,2025-6-20,,1.0,1.0,97.23688295560386,2.1735028003556707,0.0,8544.984000000004,1.0,0.0,
+113I,1.1,2025-6-25,,1.0,1.0,100.0,2.0,0.0,9821.563000000002,1.0,0.0,
+114G,1.1,2025-6-17,,1.0,1.0,98.57331571994716,2.2496490839591647,0.0,9018.536999999997,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+114H,1.1,2025-6-23,,1.0,1.0,97.74229074889868,2.238107937354938,0.0,8260.697,1.0,0.0,
+114I,1.1,2025-6-27,,1.0,1.0,100.0,3.0,0.0,8479.754,1.0,0.0,
+115G,1.1,2025-5-29,,1.0,1.0,98.29974811083125,2.191234262934989,0.0,8619.855000000003,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+115H,1.1,2025-6-5,,1.0,1.0,98.11965811965813,2.2244174989455403,0.0,8319.424999999996,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+115I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,9935.597999999998,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-12_11h32.03.486;DNF: blankScreen_01 in Version 2025-06-12_11h32.03.486;DNF: blankScreen_02 in Version 2025-06-12_11h32.03.486;DNF: blankScreen_03 in Version 2025-06-12_11h32.03.486;DNF: blankScreen_04 in Version 2025-06-12_11h32.03.486
+116G,1.1,2025-5-29,,1.0,1.0,97.71886559802712,2.1917228854490776,0.0,7681.298000000002,1.0,0.0,
+116H,1.1,2025-6-5,,1.0,1.0,98.17457683372054,2.176371812034992,0.0,7780.510000000002,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+116I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,8703.309999999998,1.0,0.0,
+118G,1.1,2025-5-28,,1.0,1.0,98.42004903296105,2.2443513570502938,0.0,8626.539000000004,1.0,0.0,
+118H,1.1,2025-6-4,,1.0,1.0,98.0,2.24717306749796,0.0,7594.272000000004,1.0,0.0,
+118I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,0.0,8393.482000000004,1.0,0.0,
+119G,1.1,2025-5-26,,1.0,1.0,99.0138067061144,2.182149724121567,0.0,8648.010000000002,1.0,0.0,
+119H,1.1,2025-6-2,,1.0,1.0,98.3974358974359,2.1921841056700964,0.0,8531.229,1.0,0.0,
+119I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,1.0,10724.222999999998,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-09_12h56.44.599;DNF: blankScreen_01 in Version 2025-06-09_12h56.44.599;DNF: blankScreen_02 in Version 2025-06-09_12h56.44.599;DNF: blankScreen_03 in Version 2025-06-09_12h56.44.599;DNF: blankScreen_04 in Version 2025-06-09_12h56.44.599
+122G,1.1,2025-5-30,,1.0,1.0,100.0,2.311756579245837,0.0,9654.523999999998,1.0,0.0,DNF: blankScreen_00 in Version 2025-05-30_16h43.08.689;DNF: blankScreen_00 in Version 2025-05-30_17h04.15.037;DNF: blankScreen_01 in Version 2025-05-30_16h43.08.689;DNF: blankScreen_01 in Version 2025-05-30_17h04.15.037;DNF: blankScreen_02 in Version 2025-05-30_16h43.08.689;DNF: blankScreen_02 in Version 2025-05-30_17h04.15.037;DNF: blankScreen_03 in Version 2025-05-30_16h43.08.689;DNF: blankScreen_03 in Version 2025-05-30_17h04.15.037;DNF: blankScreen_04 in Version 2025-05-30_17h04.15.037
+122H,1.1,2025-6-5,,1.0,1.0,98.00865800865802,2.2671412642818725,0.0,7623.298000000002,1.0,0.0,
+122I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,9926.309,1.0,0.0,DNF: passiveViewing_01 in Version 2025-06-09_09h13.42.296
+123G,1.1,2025-5-27,,1.0,1.0,98.6088379705401,2.289875335899079,0.0,9224.866999999998,1.0,0.0,
+123H,1.1,2025-6-6,,1.0,1.0,98.16635663034812,2.242317955220425,0.0,8331.341,1.0,0.0,
+123I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,9558.786,1.0,0.0,
+124G,1.1,2025-5-29,,1.0,1.0,98.0365605958023,2.475433028639121,1.0,14492.341999999995,1.0,0.0,DNF: blankScreen_00 in Version 2025-05-29_11h40.13.585;DNF: blankScreen_01 in Version 2025-05-29_11h40.13.585;DNF: blankScreen_02 in Version 2025-05-29_11h40.13.585;DNF: blankScreen_03 in Version 2025-05-29_11h40.13.585;DNF: blankScreen_04 in Version 2025-05-29_11h40.13.585
+124H,1.1,2025-6-5,,1.0,1.0,95.89778076664425,2.162449263897939,0.0,7947.741000000002,1.0,0.0,
+124I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,9752.188999999998,1.0,0.0,
+125G,1.1,2025-5-29,,1.0,1.0,98.1,2.0,0.0,8826.823000000004,1.0,0.0,DNF: blankScreen_00 in Version 2025-05-29_12h40.21.696;DNF: blankScreen_00 in Version 2025-05-29_13h50.35.227;DNF: passiveViewing_01 in Version 2025-05-29_12h16.40.333;DNF: blankScreen_01 in Version 2025-05-29_13h50.35.227;DNF: blankScreen_02 in Version 2025-05-29_13h50.35.227;DNF: blankScreen_03 in Version 2025-05-29_13h50.35.227
+125H,1.1,2025-6-5,,1.0,1.0,99.20508744038156,2.198646774288361,1.0,17147.467999999993,1.0,0.0,
+125I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,9766.398,1.0,0.0,
+127G,1.1,2025-5-29,,1.0,1.0,98.4034833091437,2.229979484658026,0.0,8196.303,1.0,0.0,
+127H,1.1,2025-6-5,,1.0,1.0,99.07157831686132,2.2301190563249045,0.0,8040.561999999998,1.0,0.0,
+127I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,9255.638,1.0,0.0,
+128G,1.1,2025-5-30,,1.0,1.0,95.52791743847578,2.232981143239544,0.0,8747.736000000004,1.0,0.0,
+128H,1.1,2025-6-6,,1.0,1.0,98.6449864498645,2.229119079316938,0.0,8815.365999999995,1.0,0.0,
+128I,1.1,2025-6-13,,1.0,1.0,95.6944297082228,3.0,1.0,10058.832999999991,1.0,0.0,
+129G,1.1,2025-5-30,,1.0,1.0,94.0034762456547,2.2328799478118087,1.0,16435.898,1.0,0.0,Missing Signals: blankScreen_04 - IndexError('list index out of range')
+129H,1.1,2025-6-6,,1.0,1.0,98.11749432002595,2.2108161869747684,0.0,7304.512999999999,1.0,0.0,Failed Saliva Rename: ./Analysis/Raw/Participants/129H/129H_EVM_2025-06-06_13h04.08.393.csv - KeyError('Task')
+129I,1.1,2025-6-9,,1.0,1.0,100.0,3.0,0.0,8853.012999999999,1.0,0.0,Failed Saliva Rename: ./Analysis/Raw/Participants/129I/129I_EVM_2025-06-09_13h11.05.798_9.csv - IndexError('index 1 is out of bounds for axis 0 with size 1');DNF: BP_00 in Version 2025-06-09_13h11.05.798
+132G,1.1,2025-5-28,,1.0,1.0,98.80336351875808,2.199660918636736,0.0,8116.633999999998,1.0,0.0,
+132H,1.1,2025-6-4,,1.0,1.0,98.63724853990917,2.198320999645369,0.0,8335.434000000001,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+132I,1.1,2025-6-11,,1.0,1.0,100.0,3.0,0.0,9495.377999999995,1.0,0.0,
+134G,1.1,2025-5-30,,1.0,1.0,99.46957878315132,2.1798462248617447,1.0,10437.576,1.0,0.0,
+134H,1.1,2025-6-3,,1.0,1.0,99.85920450545582,2.16911441731462,0.0,9978.479,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+134I,1.1,2025-6-10,,1.0,1.0,100.0,3.0,1.0,15375.611000000004,1.0,0.0,
+135G,1.1,2025-5-30,,1.0,1.0,97.80394653087204,2.24697606178236,0.0,8827.89,1.0,0.0,
+135H,1.1,2025-6-5,,1.0,1.0,97.59903961584634,2.2110214255098994,0.0,7892.879000000001,1.0,0.0,
+135I,1.1,2025-6-12,,1.0,1.0,100.0,3.0,0.0,8741.440000000002,1.0,0.0,
+139G,1.1,2025-6-17,,1.0,1.0,97.91960507757403,2.1985788055331126,0.0,8102.056000000004,1.0,0.0,
+139H,1.1,2025-6-23,,1.0,1.0,97.29023832843616,2.199911385171989,0.0,8181.473000000005,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-23_14h30.16.072;DNF: blankScreen_00 in Version 2025-06-23_14h30.51.397;DNF: blankScreen_01 in Version 2025-06-23_14h30.16.072;DNF: blankScreen_01 in Version 2025-06-23_14h30.51.397;DNF: blankScreen_02 in Version 2025-06-23_14h30.16.072;DNF: blankScreen_02 in Version 2025-06-23_14h30.51.397;DNF: blankScreen_03 in Version 2025-06-23_14h30.16.072;DNF: blankScreen_03 in Version 2025-06-23_14h30.51.397;DNF: blankScreen_04 in Version 2025-06-23_12h32.04.165
+139I,1.1,2025-6-27,,1.0,1.0,100.0,3.0,1.0,10785.288999999995,1.0,0.0,Failed Saliva Rename: ./Analysis/Raw/Participants/139I/139I_EVM_2025-06-27_11h55.53.830.csv - KeyError('Task')
+141G,1.1,2025-6-13,,1.0,1.0,97.85320568610386,2.1965013396530564,0.0,9792.832000000002,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+141H,1.1,2025-6-18,,1.0,1.0,98.95645915797049,2.2157891512670096,0.0,9174.120000000004,1.0,0.0,
+141I,0.0,,,,,,,,,,,
+142G,1.1,2025-6-18,,1.0,1.0,97.70323360531884,2.1753528463229257,0.0,9058.544999999998,1.0,0.0,DNF: blankScreen_00 in Version 2025-06-18_10h17.25.182;DNF: blankScreen_01 in Version 2025-06-18_10h17.25.182;DNF: blankScreen_02 in Version 2025-06-18_10h17.25.182;DNF: blankScreen_03 in Version 2025-06-18_10h17.25.182
+142H,1.1,2025-6-25,,1.0,0.0,68.81930854533594,2.0,0.0,6741.733,1.0,0.0,Missing Signals: blankScreen_04 - IndexError('list index out of range');Missing Signals: BP_04 - IndexError('list index out of range');Missing Signals: Exercise - IndexError('list index out of range');Missing Signals: BP_05 - IndexError('list index out of range');Missing Signals: blankScreen_05 - IndexError('list index out of range');Missing Signals: BP_06 - IndexError('list index out of range')
+142I,1.1,2025-7-2,,1.0,1.0,100.0,3.0,0.0,9938.797,1.0,0.0,
+143G,1.1,2025-6-13,,1.0,1.0,99.57537154989384,2.225509715919618,0.0,7955.704000000005,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+143H,1.1,2025-6-18,,1.0,1.0,98.46405228758172,2.176506348766228,0.0,7306.771999999997,1.0,0.0,
+143I,1.1,2025-6-25,,1.0,1.0,100.0,3.0,0.0,8917.523000000001,1.0,0.0,DNF: passiveViewing_01 in Version 2025-06-25_13h17.48.892
+144G,1.1,2025-6-13,,1.0,1.0,97.27131782945736,2.22933248777849,0.0,7638.375,1.0,0.0,
+144H,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,Missing Signals: blankScreen_00 - KeyError('t');Missing Signals: BP_00 - KeyError('t');Missing Signals: Saliva_00 - KeyError('t');Missing Signals: Exposure - KeyError('t');Missing Signals: passiveViewing_01 - KeyError('t');Missing Signals: blankScreen_01 - KeyError('t');Missing Signals: BP_01 - KeyError('t');Missing Signals: blankScreen_02 - KeyError('t');Missing Signals: BP_02 - KeyError('t');Missing Signals: blankScreen_03 - KeyError('t');Missing Signals: BP_03 - KeyError('t');Missing Signals: blankScreen_04 - KeyError('t');Missing Signals: BP_04 - KeyError('t');Missing Signals: Exercise - KeyError('t');Missing Signals: BP_05 - KeyError('t');Missing Signals: blankScreen_05 - KeyError('t');Missing Signals: BP_06 - KeyError('t')
+144I,1.1,2025-6-24,,1.0,1.0,100.0,3.0,0.0,9526.648999999998,1.0,0.0,
+145G,1.1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
+145H,1.1,2025-6-17,,1.0,1.0,97.87615148413512,2.2659866907770323,0.0,7968.908000000003,1.0,0.0,
+145I,1.1,2025-6-23,,1.0,1.0,100.0,3.0,0.0,7857.703000000001,1.0,0.0,
+146G,1.1,2025-6-18,,1.0,1.0,97.75600505689002,2.210425273016688,0.0,8331.539999999994,1.0,0.0,
+146H,1.1,2025-6-24,,1.0,1.0,98.9114445425125,2.202936902721977,0.0,8285.189000000006,1.0,0.0,
+146I,1.1,2025-6-30,,1.0,1.0,100.0,3.0,0.0,9411.148,1.0,0.0,
+147G,1.1,2025-6-18,,1.0,1.0,97.41002354524048,2.1982292631400333,0.0,8144.517,1.0,0.0,
+147H,1.1,2025-6-23,,1.0,1.0,98.40142095914744,2.2129744502438427,0.0,7612.281999999999,1.0,0.0,
+147I,1.1,2025-6-27,,1.0,1.0,100.0,3.0,0.0,8553.661999999997,1.0,0.0,
+148G,1.1,2025-6-19,,1.0,1.0,98.51274787535412,3.0,0.0,6964.847000000002,1.0,0.0,
+148H,1.1,2025-6-24,,1.0,1.0,96.83636363636364,2.180770926299252,0.0,6927.716,1.0,0.0,
+148I,1.1,2025-6-30,,1.0,1.0,100.0,3.0,0.0,8009.896999999997,1.0,0.0,
+149G,1.1,2025-6-19,,1.0,1.0,98.90616004605644,2.194484779805267,1.0,11741.832000000002,1.0,0.0,
+149H,1.1,2025-6-23,,1.0,1.0,96.61680911680912,2.2023532262051275,1.0,10805.929000000004,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+149I,1.1,2025-6-30,,1.0,1.0,100.0,3.0,1.0,15004.388999999996,1.0,0.0,
+151G,1.1,2025-6-27,,1.0,1.0,98.0436177036562,2.194582760778168,1.0,17101.69600000001,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+151H,1.1,2025-6-30,,1.0,1.0,98.2356647763075,1.198091599140538,0.0,8291.233,1.0,0.0,Missing Signals: Saliva_00 - IndexError('list index out of range')
+151I,1.1,,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,
